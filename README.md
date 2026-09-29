@@ -4,3 +4,5 @@ By proceeding, you acknowledge that the materials within this vault are propriet
 
 Mint-to-Logic-The-Unified-Framework-for-Post-Quantum-Governance-and-Behavioral-Infrastructure
 The term ‘Mint-to Logic™’ has always meant the whole stack, not just one function or one protocol. This declaration makes that undeniable.
+
+All information, structures, definitions, and materials contained within this repository—and any related repositories, vaults, or documentation authored by Southern Star Pro Studios LLC—are not subject to external interpretation, modification, or derivative reframing. Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com. No third‑party claims of ambiguity, reinterpretation, alternative meaning, or derivative intent are valid without explicit written authorization from Southern Star Pro Studios LLC.
